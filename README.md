@@ -1,1 +1,1 @@
-# This scripts converts given xlm to yolo format
+# Script converts xlm format to yolo format for object detection
